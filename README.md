@@ -17,4 +17,4 @@ LOSS and optimizer:
 Mean squared error loss is used and ADAM optimizer is used.
 
 
-Soon i will upload the data used for this, Due to pandemic i am in my home and the data is in college's system.
+Soon i will upload the data used for this and other relevant files, Due to pandemic i am in my home and the data is in college's system.
