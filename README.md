@@ -15,3 +15,6 @@ The 512 features obtained from the input at the encoder part and the linear laye
 LOSS and optimizer:
 
 Mean squared error loss is used and ADAM optimizer is used.
+
+
+Soon i will upload the data used for this, Due to pandemic i am in my home and the data is in college's system.
